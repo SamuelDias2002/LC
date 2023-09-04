@@ -1,2 +1,7 @@
 # LC
-2 projects made for Computional Logic 
+
+Computational Logic - Computer Engineering at UBI
+
+This repository has:
+- The PDF files for both problems
+- Code in Ocaml for both problems
